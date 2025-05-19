@@ -1,4 +1,4 @@
-#Volleyball Betting Data Structures
+# Volleyball Betting Data Structures
 
 ## Result Data Structures (`result.go`)
 
