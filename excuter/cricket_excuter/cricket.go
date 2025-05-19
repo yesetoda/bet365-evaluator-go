@@ -32,8 +32,7 @@ func CricketExecutor() {
 	// Print detailed match information
 	cricket_helper.PrintMatchHeader(matchInfo)
 
-	// Generate simulated statistics for demonstration
-	cricket_helper.SimulateDetailedMatchStats(&matchInfo)
+
 
 	// Print extended match statistics
 	cricket_helper.PrintDetailedMatchStats(matchInfo)
